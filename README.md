@@ -1,7 +1,7 @@
 # msleam-bike-automl
 Esse modelo foi feito utilizando as ferramentas de automação do ml-azure.
 este modelo foi feito utilizando um banco de dados de uma empresa de aluguel de bikes.(https://aka.ms/bike-rentals)
-O problema a ser resolvido foi, baseado nos dados de alugues das bikes ate o momento quantas bikes teria que ter na empresa para nao haver prejuisos por falta de bikes nem excesso de bikes paradas causando disperdicios.
+O problema a ser resolvido foi, baseado nos dados de alugueis de bikes ate o momento quantas bikes teria que ter na empresa para nao haver prejuisos por falta de bikes nem excesso de bikes paradas causando disperdicios.
 
 O metodo utilizado foi o de predição.
 
